@@ -46,7 +46,14 @@ I specialize in building high-performance real-time web applications, autonomous
 
 ### 🛠️ Core Tech Stack
 
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | TypeScript, JavaScript (ESNext), Python, Java, PHP, Go, Bash / Shell, SQL |
+| **Frontend** | React 19, Next.js, Astro, React Native (Expo), Tailwind CSS v4, shadcn/ui, Three.js, R3F |
+| **Backend & APIs** | Node.js, Fastify v5, Express, WebSockets, Firebase, PostgreSQL, SQLite |
+| **AI & Systems** | Gemini GenAI Tool Calling, Puppeteer E2E, Linux (Arch/CachyOS Kernel), Docker |
 
+---
 
 <details>
 <summary>Philosophy</summary>
