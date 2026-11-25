@@ -17,6 +17,7 @@ I specialize in building high-performance real-time web applications, autonomous
 
 - 🔭 **Current Focus**: Real-time agentic bridges, WebSockets, modern React 19 / Fastify backends.
 - 🎓 **Education**: B.S. in Computer Science, Free International University of Moldova (ULIM).
+- 🌐 **Portfolio**: [porfoliooo.web.app](https://porfoliooo.web.app)
 - 💬 **Get in Touch**: [augustinnegura746@gmail.com](mailto:augustinnegura746@gmail.com) | Telegram: [@suityan](https://t.me/suityan)
 
 ---
@@ -30,13 +31,14 @@ I specialize in building high-performance real-time web applications, autonomous
 - Automated responsive cross-device testing across viewports using **Puppeteer**.
 
 #### 🌌 [Porfoliooo & WebGL Canvas](https://github.com/suichanwa/porfoliooo)
-> **Interactive 3D/2D graphics engine and showcase platform.**
+> **Interactive 3D/2D graphics engine and showcase platform ([porfoliooo.web.app](https://porfoliooo.web.app)).**
 - Built with **Astro 7**, **React 19**, **Three.js**, **React Three Fiber (R3F)**, **Pixi.js**, **GSAP**, and **Firebase**.
 - High frame-rate 3D constellations, micro-animations, and serverless backend integration.
 
-#### ⚡ [cpu-bench](https://github.com/suichanwa/cpu-bench)
-> **Cross-platform CPU benchmark measuring SHA-256 throughput and automated hardware ISA detection.**
-- Built with **Python**, multiprocessing, hardware instruction detection, and cross-platform automation runners.
+#### 🔐 [Defi-App](https://github.com/suichanwa/defi-app)
+> **Serverless multi-chain mobile wallet & end-to-end encrypted P2P messaging application.**
+- Built with **React Native (Expo 56)**, **React 19**, **TypeScript**, and a **native Rust JNI crypto core** (`PBKDF2-HMAC-SHA256` + `AES-256-CTR`).
+- Non-custodial **Solana** & **Ethereum / EVM** accounts, local-first biometric/passcode keystore persistence, and **XMTP v5** E2EE direct & relay messaging.
 
 #### 📱 [notesapp](https://github.com/suichanwa/notesapp)
 > **Mobile productivity application built with React Native & Expo.**
@@ -48,7 +50,7 @@ I specialize in building high-performance real-time web applications, autonomous
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Languages** | TypeScript, JavaScript (ESNext), Python, Java, PHP, Go, Bash / Shell, SQL |
+| **Languages** | TypeScript, JavaScript (ESNext), Python, Rust, Java, PHP, Go, Bash / Shell, SQL |
 | **Frontend** | React 19, Next.js, Astro, React Native (Expo), Tailwind CSS v4, shadcn/ui, Three.js, R3F |
 | **Backend & APIs** | Node.js, Fastify v5, Express, WebSockets, Firebase, PostgreSQL, SQLite |
 | **AI & Systems** | Gemini GenAI Tool Calling, Puppeteer E2E, Linux (Arch/CachyOS Kernel), Docker |
